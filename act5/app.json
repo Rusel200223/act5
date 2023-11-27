@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "act5",
+    "slug": "act5",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
